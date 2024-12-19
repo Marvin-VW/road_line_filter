@@ -20,12 +20,13 @@ Set up the required dependencies.
 
 ```
 mkdir build
-cd build cmake ../
+cd build
+cmake ../
 make 
 ./CameraProcessorApp
 ```
 
 # Requirements
 
-Camera input (USB or other compatible sources)
-OpenCV
+- Camera input (USB or other compatible sources)
+- OpenCV
